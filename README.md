@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=allahrakha-7&style=flat&color=blue" alt="Profile Views"/>
   
-  <img src="https://img.shields.io/github/followers/allahrakha-7?style=flat&logo=github&label=Followers" alt="Followers"/>
 </p>
 
 <h1 >📌 About me:</h1>
